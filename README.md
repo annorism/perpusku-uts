@@ -5,10 +5,10 @@ Sistem Manajemen Data Interaktif untuk mengelola data buku, anggota, dan peminja
 ## Identitas
 | | |
 |---|---|
-| Nama | [Rahma Anjani] |
-| NIM | [17241026] |
-| Kelas | [TI.5A] |
-| Mata Kuliah | [Pemrograman Web] |
+| Nama | Rahma Anjani |
+| NIM | 17241026 |
+| Kelas | TI.5A |
+| Mata Kuliah | Pemrograman Web |
 
 ## Fitur
 - Ringkasan jumlah buku, anggota, dan buku yang dipinjam
@@ -40,9 +40,9 @@ perpustakaan-mini/
 │   ├── data.php
 │   ├── header.php
 │   └── footer.php
-├── docs/              # Laporan project
-└── README.md
-```
+├── docs/
+│   ├── screenshots/   # Gambar tampilan website
+│   └── Laporan Project [Rahma Anjani].docx
 
 ## Cara Menjalankan
 1. Unduh repositori (**Code → Download ZIP**), lalu ekstrak.
