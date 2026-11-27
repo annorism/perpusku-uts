@@ -68,7 +68,7 @@ perpustakaan-mini/
 ### Desktop
 | Beranda | Data Buku |
 |---|---|
-| ![Beranda desktop](docs/screenshots/desktop-beranda.png) | ![Data buku desktop](docs/screenshots/desktop-buku.png) |
+| ![Beranda desktop](docs/dokumentasi/desktop-beranda.png) | ![Data buku desktop](docs/screenshots/desktop-buku.png) |
 
 | Validasi Form | Peminjaman |
 |---|---|
