@@ -72,7 +72,10 @@ perpustakaan-mini/
 
 |Anggota | Peminjaman |
 |---|---|
-| ![Validasi desktop](tambah-anggota.png) | ![Peminjaman desktop](outputs/pinjam-buku.png) |
+| ![Tambah anggota](outputs/tambah-anggota.png) | ![Peminjaman desktop](outputs/pinjam-buku.png) |
+|Pengembalian |Mode gelap |
+|---|---|
+| ![Pengembalian ](outputs/kembali-buku.png) | ![Mode gelap](outputs/pinjam-buku.png) |
 
 ### Mobile
 | Beranda | Data Buku | Validasi Form | Peminjaman |
