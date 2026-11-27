@@ -43,7 +43,7 @@ perpustakaan-mini/
 ├── docs/
 │   ├── screenshots/   # Gambar tampilan website
 │   └── Laporan Project [Rahma Anjani].docx
-
+```
 ## Cara Menjalankan
 1. Unduh repositori (**Code → Download ZIP**), lalu ekstrak.
 2. Ubah nama folder menjadi `perpustakaan-mini` dan salin ke `htdocs` XAMPP.
