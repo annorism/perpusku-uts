@@ -68,11 +68,11 @@ perpustakaan-mini/
 ### Desktop
 | Beranda | Data Buku |
 |---|---|
-| ![Beranda desktop](outputs/desktop-beranda.png) | ![Data buku desktop](docs/screenshots/desktop-buku.png) |
+| ![Beranda desktop](outputs/desktop-beranda.png) | ![Data buku desktop](outputs/tambah-buku.png) |
 
-| Validasi Form | Peminjaman |
+|Anggota | Peminjaman |
 |---|---|
-| ![Validasi desktop](docs/screenshots/desktop-validasi.png) | ![Peminjaman desktop](docs/screenshots/desktop-pinjam.png) |
+| ![Validasi desktop](tambah-anggota.png) | ![Peminjaman desktop](outputs/pinjam-buku.png) |
 
 ### Mobile
 | Beranda | Data Buku | Validasi Form | Peminjaman |
