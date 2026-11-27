@@ -80,4 +80,4 @@ perpustakaan-mini/
 ### Mobile
 | Beranda | Data Buku | Validasi Form | Peminjaman |
 |---|---|---|---|
-| <img src="docs/screenshots/mobile-beranda.png" width="200" alt="Beranda mobile"> | <img src="docs/screenshots/mobile-buku.png" width="200" alt="Data buku mobile"> | <img src="docs/screenshots/mobile-validasi.png" width="200" alt="Validasi mobile"> | <img src="docs/screenshots/mobile-pinjam.png" width="200" alt="Peminjaman mobile"> |
+| <img src="outputs/localhost_perpustakaan-mini_index.php.png" width="200" alt="Beranda mobile"> | <img src="outputs/localhost_perpustakaan-mini_buku.php.png" width="200" alt="Data buku mobile"> | <img src="outputs/localhost_perpustakaan-mini_anggota.php.png" width="200" alt="Anggota mobile"> | <img src="outputs/localhost_perpustakaan-mini_pinjam.php.png" width="200" alt="Peminjaman mobile"> |
